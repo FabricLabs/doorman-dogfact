@@ -1,0 +1,14 @@
+{
+	"name": "doorman-dogfact",
+	"description": "Gives a Random Dog Fact",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"readme": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FabricLabs/doorman-dogfact.git"
+	},
+	"author": "Nate Richardson <hello@naterichardson.com> (https://naterichardson.com)",
+	"main": "dogfact.js",
+	"dependencies": {}
+}
